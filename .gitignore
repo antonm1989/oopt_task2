@@ -1,0 +1,5 @@
+target/site/serenity/*
+*.html
+*.json
+*.xml
+.idea/workspace.xml
